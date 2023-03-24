@@ -1,0 +1,7 @@
+127.0.0.1 - - [23/Mar/2023:20:04:02 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [23/Mar/2023:20:04:02 +0530] "GET /learn_academy/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Mar/2023:20:04:02 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [23/Mar/2023:20:04:15 +0530] "POST /learn_academy/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Mar/2023:20:04:15 +0530] "GET /learn_academy/home.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Mar/2023:20:04:18 +0530] "GET /learn_academy/addclassdet.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Mar/2023:20:04:55 +0530] "POST /learn_academy/classadd HTTP/1.1" 200 25

@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [14/Mar/2023:00:05:28 +0530] "GET /learn_academy/home.html HTTP/1.1" 200 438
+0:0:0:0:0:0:0:1 - - [14/Mar/2023:00:05:30 +0530] "GET /learn_academy/home.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/Mar/2023:00:06:13 +0530] "POST /learn_academy/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [14/Mar/2023:00:06:13 +0530] "GET /learn_academy/home.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/Mar/2023:00:06:18 +0530] "GET /learn_academy/studentlist.jsp HTTP/1.1" 200 453
+0:0:0:0:0:0:0:1 - - [14/Mar/2023:00:14:43 +0530] "GET /learn_academy/home.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/Mar/2023:00:14:47 +0530] "GET /learn_academy/listteacher HTTP/1.1" 404 780
+0:0:0:0:0:0:0:1 - - [14/Mar/2023:00:24:53 +0530] "POST /learn_academy/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [14/Mar/2023:00:24:53 +0530] "GET /learn_academy/home.html HTTP/1.1" 200 446
+0:0:0:0:0:0:0:1 - - [14/Mar/2023:00:24:59 +0530] "GET /learn_academy/subjectlist.jsp HTTP/1.1" 200 413
+0:0:0:0:0:0:0:1 - - [14/Mar/2023:00:25:04 +0530] "GET /learn_academy/teacherlist.jsp HTTP/1.1" 200 501
+0:0:0:0:0:0:0:1 - - [14/Mar/2023:00:26:22 +0530] "GET /learn_academy/Display.jsp HTTP/1.1" 200 539

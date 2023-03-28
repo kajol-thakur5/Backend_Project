@@ -18,7 +18,7 @@ user="root" password="Kajol@1995"
 
 <sql:query var="result" dataSource="${conn }">
 
-			select * from student
+			select * from student;
 </sql:query>
 <table border=1 cellSpacing=0 cellpadding=10>
 <tr><th>Student Id</th> <th>Name</th><th>Class</th><th>Gender</th><th>Date Of Birth</th></tr>
